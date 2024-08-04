@@ -13,20 +13,20 @@
 <br/>
 
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<div align="">
+<div style="display: flex; align-items: center; justify-content: flex-start;">
 
+  <!-- Image on the Right -->
+  <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
- 
- 🔭 I’m currently working at *:Spider Technology*
- 
- 🌱 I’m currently learning *:Next js, Three js*
+  <!-- Text on the Left -->
+  <div style="margin-right: 20px;">
+    <p>🔭 I’m currently working at *:Spider Technology*</p>
+    <p>🌱 I’m currently learning *:Next js, Three js*</p>
+    <p>💬 Ask me about *:Web Design, maintenance and Development(CMS)*</p>
+  </div>
 
-💬 Ask me about *:Web Design, maintenance and  Development(CMS)*
+</div>
 
-
-
- </div>
 
 <br/>
 <br/>
