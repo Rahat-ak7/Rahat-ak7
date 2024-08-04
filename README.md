@@ -13,7 +13,7 @@
 <br/>
 
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<div style="display: flex;flex-wrap: wrap; align-items: center; justify-content: flex-start;">
 
   <!-- Image on the Right -->
   <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
