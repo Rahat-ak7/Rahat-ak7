@@ -1,4 +1,4 @@
-![logo](https://github.com/Rahat-ak7/Rahat-ak7/blob/main/Git%20Banner.png)
+![logo](https://github.com/Rahat-ak7/Rahat-ak7/blob/main/Github%20Banner.png)
 <br/>
  <hr/>
 <h1 align="center">
