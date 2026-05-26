@@ -7,7 +7,7 @@
 
 
 <br/>
-<h2 align="center">A Passionate Front End Developer from Pakisan</h2>
+<h2 align="center">A Passionate Software Engineer from Pakisan</h2>
 
 
 <br/>
@@ -19,9 +19,8 @@
 
   <!-- Text on the Left -->
   <div align="">
-    <p>🔭 I’m currently working at *:Spider Technology*</p>
-    <p>🌱 I’m currently learning *:Next js, Three js*</p>
-    <p>💬 Ask me about *:Web Design, maintenance and Development(CMS)*</p>
+    <p>🔭 I’m currently working at *:Wise 360 Solutions*</p>
+    <p>💬About me *Software Engineer | MERN Stack & Front-End Developer (React.js, Next.js) | Building Scalable AI-Powered Web Applications*</p>
   </div>
 
   <!-- Image on the Right -->
